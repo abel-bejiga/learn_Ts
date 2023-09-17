@@ -1,0 +1,7 @@
+statically typed -> cant reassign number var to string or else (Java, C++ ...)
+dynamically typed -> CAN reassign number var to string or else (JS, ruby ...)
+
+TS
+- is JS with type checking like statically typed languages
+- gives real time type checking 
+- built on top of JS
